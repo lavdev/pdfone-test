@@ -1,4 +1,4 @@
-package br.com.dotdocc.api.utils;
+package com.example.pdfone.util;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

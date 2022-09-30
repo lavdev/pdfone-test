@@ -1,4 +1,4 @@
-package br.com.dotdocc.api.exception;
+package com.example.pdfone.exception;
 
 public class FileStorageException extends RuntimeException  {
     public FileStorageException(String message) {

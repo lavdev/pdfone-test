@@ -1,4 +1,4 @@
-package br.com.dotdocc.api.config;
+package com.example.pdfone.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

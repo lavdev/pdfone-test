@@ -1,4 +1,4 @@
-package br.com.dotdocc.api.exception;
+package com.example.pdfone.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

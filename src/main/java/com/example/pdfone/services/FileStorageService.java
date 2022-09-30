@@ -1,9 +1,8 @@
-package com.example.pdfone.service;
+package com.example.pdfone.services;
 
-import br.com.dotdocc.api.config.FileStorageProperties;
-import br.com.dotdocc.api.exception.FileStorageException;
-import br.com.dotdocc.api.exception.MyFileNotFoundException;
 import com.example.pdfone.config.FileStorageProperties;
+import com.example.pdfone.exception.FileStorageException;
+import com.example.pdfone.exception.MyFileNotFoundException;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
